@@ -1,0 +1,10 @@
+# global owners
+*       @mynwong_amway @myt10at6_amway @aiunyg6_amway @indrdaba_amway
+
+.github/    @aiunyg6_amway
+composer/amway-mft-prd/     @AmwayCommon/integration-administrator-authors
+composer/amway-mft-dev/roles/     @AmwayCommon/integration-administrator-authors
+composer/amway-mft-pre-prd/roles/     @AmwayCommon/integration-administrator-authors
+portal/    @myt10at6_amway @aiunyg6_amway
+jenkins/   @aiunyg6_amway
+modules/   @aiunyg6_amway
